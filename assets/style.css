@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+   
+}
+
+header {
+	text-align: center;
+	color: white;
+	padding: 20px;
+	background-color: darkblue;
+}
+
+#city-info {
+	margin: 10px;
+}
+
+.sidebar {
+	background-color: lightgray;
+	padding: 10px;
+}
+
+.daycard {
+	margin: 10px;
+}
