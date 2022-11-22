@@ -14,11 +14,12 @@ var dataStore = JSON.parse(localStorage.getItem('cities')) || [];
 
 
 function processWeatherData(data) {
- 
- console.log(data);};
-   
-    
- 
+
+  console.log(data);
+};
+
+
+
 
 
 
